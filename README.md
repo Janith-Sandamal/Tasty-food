@@ -7,7 +7,7 @@
 - Includes a dark & light theme.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
-## Visit :- <a href=" ">Tasty Food </a>
+## Visit :- <a href="https://neoex-solutions.github.io/Tasty-food/">Tasty Food </a>
 ## Desktop View
 ### Home
 ![image](https://github.com/Janith-Sandamal/Tasty-food/assets/78975250/7c424366-278b-4dce-b123-30a6b1e3e4c4)
